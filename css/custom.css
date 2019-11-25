@@ -9,12 +9,12 @@ body {
 }
 
 .sec_bg_clr_2 {
-  background-color: bisque;/*#def9f8;*/
+  background-color: #ffdddd;/*#def9f8;*/
 }
 
 .color-black {
   color: black!important;
-}
+}45px
 
 .sec2_grid_text {
   font-size: 16px;
@@ -107,7 +107,7 @@ body {
   max-width: 12%;
 }
 .sec2_header-text {
-  font-size: 50px;
+  font-size: 45px;
   font-weight: 600;
   font-family: 'Nunito', sans-serif;
   color: #0C476B;
