@@ -224,7 +224,7 @@ body {
 .fixed_bar {
   position: fixed!important;
   top: 0;
-  z-index: 1000000;
+  z-index: 100;
   background-color: #fff;
   width: 100%;
   border-bottom: 1px solid #62C7C2;
