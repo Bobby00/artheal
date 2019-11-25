@@ -1,0 +1,355 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Nunito', sans-serif!important;
+}
+.sec_bg_clr_1 {
+  background-color: #edfffe;/*#def9f8;*/
+}
+
+.sec2_grid_text {
+  font-size: 16px;
+  font-family: 'Nunito', sans-serif;
+  color: #62C7C2!important;
+}
+.sec_2_helper-text {
+  color: #0C476B!important;
+}
+
+.icon_width {
+  width: 90%;
+}
+
+.mt-cstm-sec2 {
+  margin-top: 4.142857em!important;
+}
+.mt-4-sec {
+  padding-top: 10.828571em;
+}
+.header-text {
+  font-size: 50px;
+  font-weight: 600;
+  font-family: 'Nunito', sans-serif;
+  color: #0C476B;
+}
+.bar .logo-md {
+    max-height: 5.757143em;
+    top: -20px;
+}
+
+.nav_cta {
+  letter-spacing: 1px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  border-radius: 30px;
+  background: #62C7C2;
+  color: #fff;
+  letter-spacing: 1.5px!important;
+}
+
+.nav_cta:hover {
+  letter-spacing: 1px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  border-radius: 30px;
+  background: #fff;
+  border: 1px solid #62C7C2!important;
+  color: #62C7C2;
+  letter-spacing: 1.5px!important;
+}
+
+.nav_lnks {
+  font-size: 16px;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800!important;
+  letter-spacing: 1.0px;
+  color: #ED117F!important;
+} 
+
+
+.header_cta {
+  letter-spacing: 2px!important;
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px!important;
+  border-radius: 30px;
+  background: #ED117F!important;
+  border-color: #ED117F!important;
+  color: #fff!important;
+  font-weight: 600!important;
+}
+.header_cta:hover {
+  letter-spacing: 2px!important;
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px!important;
+  border-radius: 30px;
+  color: #ED117F!important;
+  background: #fff!important;
+  border-color: #ED117F!important;
+  font-weight: 600!important;
+}
+.header_helper {
+  color: #62C7C2;
+  line-height: unset;
+}
+.flt_left {
+  float: left!important;
+}
+.svg_icon_width {
+  max-width: 12%;
+}
+.sec2_header-text {
+  font-size: 50px;
+  font-weight: 600;
+  font-family: 'Nunito', sans-serif;
+  color: #0C476B;
+  letter-spacing: 1px;
+}
+.sec2_helper-text {
+  margin-left: 8%;
+  color: #49aaa5;
+}
+
+.cta1-header {
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-family: 'Nunito', sans-serif;
+}
+.cta1-helper {
+  font-size: 25px;
+  font-weight: 500;
+  color: #fff;
+}
+.cta1-btn {
+  font-size: 20px;
+  border-radius: 30px;
+  font-family: 'Nunito', sans-serif;
+  letter-spacing: 1.3px!important;
+  background-color: #efbf33!important;
+  border-color: #EFBF33!important;
+}
+
+.join-cta {
+  letter-spacing: 2px!important;
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px!important;
+  border-radius: 30px;
+  background: #ED117F!important;
+  border-color: #ED117F!important;
+  color: #fff!important;
+  font-weight: 600!important;
+}
+.join-cta:hover {
+  letter-spacing: 2px!important;
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px!important;
+  border-radius: 30px;
+  color: #ED117F!important;
+  background: #fff!important;
+  border-color: #ED117F!important;
+  font-weight: 600!important;
+}
+
+.join-header-text {
+  font-weight: 900;
+  font-family: 'Nunito', sans-serif;
+  color: #0C476B;
+  line-height: 0px;
+}
+.join-helper-text {
+  font-size: 18px;
+  color: #62C7C2;
+  font-weight: 400;
+  line-height: 1.28421053em;
+  margin-bottom: unset!important;
+  min-height: 5.02857143em!important;
+}
+.icon_img_sze {
+  width: 50%;
+}
+
+.form_field_styl {
+  font-size: 16px!important;
+  border-radius: 30px!important;
+  background: #fff!important;
+  border: 2px solid #0C476B!important;
+  padding: 1.56428571em!important;
+}
+
+.cstm_pd_btm {
+  padding-bottom: 5px;
+}
+
+.form_submit_btn {
+  font-size: 20px!important;
+  padding-left: unset;
+  padding-right: unset;
+  border-radius: 30px;
+  font-family: 'Nunito', sans-serif;
+  letter-spacing: 0.8px;
+}
+
+.form_submit_btn_modal {
+  font-size: 16px!important;
+  padding-left: unset;
+  padding-right: unset;
+  border-radius: 30px;
+  font-family: 'Nunito', sans-serif;
+  letter-spacing: 0.8px;
+}
+
+.footer_logo {
+  max-height: 5.671429em!important;
+}
+
+.contact_side_txt {
+  font-size: 18px;
+  font-family: 'Nunito', sans-serif;
+  color: #0C476B;
+}
+
+.fnt_18 {
+  font-size: 18px;
+}
+
+.fixed_bar {
+  position: fixed!important;
+  top: 0;
+  z-index: 1000000;
+  background-color: #fff;
+  width: 100%;
+  border-bottom: 1px solid #62C7C2;
+}
+.fixed_bar_xs {
+  position: fixed!important;
+  top: 0;
+  z-index: 10;
+  background-color: #fff;
+  width: 100%;
+}
+
+.modal-title-cstm {
+  text-align: left;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+}
+
+.modal-container .modal-content .modal-close-cross {
+  font-size: 20px;
+  opacity: 1;
+  font-weight: 700;
+  color: #ED117F;
+}
+
+.modal-helper-cstm {
+  font-size: 16px;
+  color: #62C7C2!important;
+  text-align: left;
+}
+
+.fnt_16 {
+  font-size: 16px;
+}
+
+.process-number-styl {
+  color: #fff;
+  background-color: #ED117F;
+  font-size: 18px;
+  border-radius: 30px;
+  padding: 5px 10px;
+  font-weight: 800;
+}
+
+.mgn-tp-15pc {
+  margin-top: 15%;
+}
+.mgn-tp-30pc {
+  margin-top: 30%;
+}
+.process-titles {
+  font-weight: 700;
+  color: #0C476B;
+  font-size: 2.585714em;
+  margin-bottom: 0.34em;
+}
+
+
+
+
+/*FUN BUTTON STYLIN*/
+
+
+/*RESPONSIVE DESIGN*/
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .nav_lnks {
+    font-size: 14px;
+  }
+  .nav_cta {
+    font-size: 12px;
+  }
+  .bar-2 .bar__module {
+    margin-bottom: 0em;
+  }
+  .header-text {
+    font-size: 50px;
+  }
+  .header_img_sm {
+    max-width: 125%;
+    padding-top: 15%;
+  }
+  .icon_width {
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .bar .logo {
+    max-height: 4.857143em;
+    top: -10px;
+  }
+  .mt-xs-sm {
+    margin-top: 10%;
+  }
+  .nav_lnks {
+    font-size: 20px;
+    padding-top: 10px;
+  }
+  .xs-sm-pd-btm {
+    padding-bottom: 15px;
+  }
+  .nav_cta {
+    font-size: 16px;
+  }
+  .header-text {
+    font-size: 47px;
+  }
+  .bg-img-header {
+    background-image: url(../img/artheal/header_inv.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .sec2_header-text {
+    font-size: 47px;
+  }
+  .icon_width {
+    width: 25%;
+  }
+  .sec2_grid_text {
+    font-size: 20px;
+  }
+  .icon_img_sze {
+    width: 40%;
+  }
+  .join-header-text {
+    font-size: 25px;
+    padding-top: 15px; 
+  }
+  .join-helper-text {
+    font-size: 16px;
+  }
+  .modal-title-cstm {
+    padding-top: 20px;
+  }
+}
